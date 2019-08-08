@@ -1,0 +1,11 @@
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/bin/Debug/netcoreapp2.2/wns.deps.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/bin/Debug/netcoreapp2.2/wns.runtimeconfig.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/bin/Debug/netcoreapp2.2/wns.runtimeconfig.dev.json
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/bin/Debug/netcoreapp2.2/wns.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/bin/Debug/netcoreapp2.2/wns.pdb
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/obj/Debug/netcoreapp2.2/wns.csprojAssemblyReference.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/obj/Debug/netcoreapp2.2/wns.csproj.CoreCompileInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/obj/Debug/netcoreapp2.2/wns.AssemblyInfoInputs.cache
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/obj/Debug/netcoreapp2.2/wns.AssemblyInfo.cs
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/obj/Debug/netcoreapp2.2/wns.dll
+/Users/angeloliwanag/Documents/CodingDojo/C#/Language_Fundamentals/wns/obj/Debug/netcoreapp2.2/wns.pdb
