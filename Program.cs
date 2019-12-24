@@ -69,7 +69,7 @@ namespace wns
         }
         public virtual void getStats()
         {
-            System.Console.WriteLine("************************************************************************************************************");
+            System.Console.WriteLine("*********************************************************************************************************");
             System.Console.WriteLine($"Name: {Name}");
             System.Console.WriteLine($"Strength: {Strength}");
             System.Console.WriteLine($"Intelligence: {Intelligence}");
